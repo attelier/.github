@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/XoanOuteiro/GIFS_forReadme/main/alchemist_workshop.gif" width="250"/>
 </td>
 <td>
-Pantry is a collection of N-Day exploits and research done on CVEs that have no known exploitation details. All exploits developed are pushed to ExploitDB with an authorship figlet banner. Most exploits go beyond PoC and into exploitation.
+Pantry is a collection of N-Day exploits and research done on CVEs (mostly ones that have no known exploitation details). All exploits developed are pushed to ExploitDB with an authorship figlet banner. Most exploits go beyond PoC and into exploitation if case applies.
 </td>
 </tr>
 </table>
