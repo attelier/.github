@@ -30,6 +30,17 @@ ATT&CLI is a MITRE ATT&CK browser meant to run locally in your machine, works th
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="25%">
+<img src="https://raw.githubusercontent.com/XoanOuteiro/GIFS_forReadme/main/diorama.gif" width="250"/>
+</td>
+<td>
+CLACKS is a non-authoritative taxonomy system made to crosswalk OWASP TOP10, MITRE ATT&CK and CWE while generating a hierarchical tagging system.
+</td>
+</tr>
+</table>
+
 *And hopefully soon a bunch more with your help.*
 
 ## How to contribute or join
